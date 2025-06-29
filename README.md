@@ -1,13 +1,14 @@
-# 📘 leetcode-dsa-java
+# 📘 DSA-Java-Journey
 
-A clean and structured collection of LeetCode problems solved in **Java**, focused on mastering **Data Structures and Algorithms**. 🚀
+A clean and structured collection of Data Structures and Algorithms problems solved in **Java**, with a primary focus on LeetCode. 🚀  
+Built for consistent practice, interview preparation, and mastering problem-solving patterns.
 
 ---
 
 ## 🎯 Purpose
 
-This repository serves as my personal learning log and interview prep tool.  
-It's designed for anyone looking to improve their **Java + DSA** skills. 💡💻
+This repository serves as my personal learning log and coding interview prep tool.  
+It's designed for anyone looking to improve their **Java + DSA** skills through hands-on problem solving. 💡💻
 
 ---
 
