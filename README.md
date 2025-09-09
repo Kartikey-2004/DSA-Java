@@ -16,4 +16,4 @@ It's designed for anyone looking to improve their **Java + DSA** skills through 
 Feel free to connect or suggest improvements!
 
 - 👨‍💻 Kartikey Gupta  
-- 📧 kartikeyg.2004@gmail.com
+- 📧 kartikey.2004@icloud.com
